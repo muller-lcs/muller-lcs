@@ -19,8 +19,7 @@ Sou **Lucas Müller** e aqui estão alguns pontos sobre mim:
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="SQLSERVER" height="30" width="40" src="https://cdn-icons-png.flaticon.com/128/9544/9544010.png">
-  <img align="center" alt="AstahUML" height="30" width="40" src="https://th.bing.com/th/id/R.2c88a08bfbb6c476cb507eaed07630e9?rik=yDI9hc0dtzHZoA&pid=ImgRaw&r=0&sres=1&sresct=1"
+  <img align="center" alt="React" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)">
 </div>
   
 ##
