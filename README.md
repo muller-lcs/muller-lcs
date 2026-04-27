@@ -1,7 +1,7 @@
 ## **Olá, prazer em recebê-lo!**
 
 Sou **Lucas Müller** e aqui estão alguns pontos sobre mim:
-- 👨🏻‍🎓 Atualmente estou graduando em Bacharel de Sistemas de Informação
+- 👨🏻‍🎓 Sou em Bacharel de Sistemas de Informação
 - 🧠 Estou buscando aprender um pouco mais em diversas áreas de tecnologia a cada dia
 - 🕹️ Gosto de aprender coisas novas como idiomas, jogar videogame e assistir séries e animes
 - 🧑🏻‍💻 Espero começar na carreira como TI e aqui está um pouco do que já fiz
